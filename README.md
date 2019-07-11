@@ -1,3 +1,3 @@
-# Push Notification Framework
+# Async Integration Framework
 
-This framework is for push notification using MSMQ.
+This framework is for async integration using MSMQ.
